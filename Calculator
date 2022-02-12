@@ -1,0 +1,18 @@
+def calculator(number_1, op, number_2):
+  result = 0
+  
+  if op = "+"
+  result = number_1 + number_2
+  
+  elif op = "-"
+  result = number_1 + number_2
+  
+  elif op = "*"
+  result = number_1 * number_2
+  
+  elif op = "/"
+  result = number_1 / number_2
+  
+  print(f"{number_1} {op} = {result}")
+  
+calculator(5, "*", 10)
